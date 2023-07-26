@@ -12,7 +12,7 @@
   --bg-color: #1b1f24;
 
   --big-font: 4.5rem;
-  --h4-font: 1.6rem;
+  --h4-font: 2.6rem;
   --p-font: 1.1rem;
 }
 body{
@@ -44,7 +44,7 @@ span{
   display: flex;
 }
 .navlist a{
-  font-size: var(--p-font);
+  font-size: 1rem;
   font-weight: 500;
   color: var(--text-color);
   margin-left: 40px;
@@ -114,7 +114,7 @@ section{
   color: var(--main-color);
   border-radius: 50%;
   backdrop-filter: brightness(88%);
-  font-size: 20px;
+  font-size: 30px;
   margin-right: 17px;
   box-shadow: 0 0 20px transparent;
   cursor: pointer;
